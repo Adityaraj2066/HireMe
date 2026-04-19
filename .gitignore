@@ -1,0 +1,7 @@
+node_modules/
+Frontend-React/node_modules/
+Backend-SpringBoot/target/
+
+.env
+*.log
+.vscode/
